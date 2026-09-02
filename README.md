@@ -17,3 +17,4 @@ the first limited will be the valk max 100 copies
 
 # 4. Samsung tv and console support
 dont even fucking ask me why but samsung tv & console support will come before linux
+
